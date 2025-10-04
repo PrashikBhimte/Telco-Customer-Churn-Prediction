@@ -1,0 +1,14 @@
+artifact_uri: file:///home/prashikbhimte/projects/ML-Projects/3TelcoCustomerChurnPrediction/model_training/mlruns/0/55682d28a93241ff9e516ccfdbcb212e/artifacts
+end_time: 1759522492089
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55682d28a93241ff9e516ccfdbcb212e
+run_name: Final Stacked Model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759522481639
+status: 3
+tags: []
+user_id: prashikbhimte

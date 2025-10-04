@@ -1,0 +1,10 @@
+artifact_location: file:///home/prashikbhimte/projects/ML-Projects/3TelcoCustomerChurnPrediction/model_training/mlruns/0/models/m-a30f133e60764752afd1121e9135fae8/artifacts
+creation_timestamp: 1759563579483
+experiment_id: '0'
+last_updated_timestamp: 1759563583233
+model_id: m-a30f133e60764752afd1121e9135fae8
+model_type: null
+name: stacked_churn_model
+source_run_id: 7788fea4afc541e992f3de530f361819
+status: 2
+status_message: null
