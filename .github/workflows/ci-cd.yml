@@ -24,7 +24,7 @@ jobs:
     - name: Run tests with pytest
       run: |
         pip install pytest
-        pytest backend
+        PYTHONPATH=. pytest backend
 
     - name: Build Docker image
       run: docker build -t churn-prediction-api .
