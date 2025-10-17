@@ -132,7 +132,7 @@ const Predict = () => {
             const response = await axios.post(`${import.meta.env.VITE_BACKEND_URL}/predict`, formData);
             setPrediction(response.data);
         } catch (err) {
-            setError('An error occurred while making the prediction. Please ensure the backend is running and try again.');
+            setError('An error occurred while making the prediction.');
             console.error(err);
         } finally {
             setLoading(false);
