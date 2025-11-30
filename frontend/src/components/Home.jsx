@@ -28,7 +28,7 @@ const Home = () => {
     return (
         <div className="bg-gray-900 text-white min-h-screen">
             <div className='flex justify-end items-center w-full'>
-                <a href="https://github.com/PrashikBhimte/CardioCare" className="p-5 text-gray-300 hover:text-white transition duration-300 hover:underline">Explore the Code</a>
+                <a href="https://github.com/PrashikBhimte/Telco-Customer-Churn-Prediction" className="p-5 text-gray-300 hover:text-white transition duration-300 hover:underline">Explore the Code</a>
             </div>
             <section className="text-center py-20 px-4 bg-gradient-to-b from-gray-900 to-gray-800">
                 <h1 className="text-5xl md:text-6xl font-extrabold tracking-tight mb-4 bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 to-purple-500">
